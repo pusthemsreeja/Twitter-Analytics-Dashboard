@@ -27,8 +27,6 @@ The goal is a **repeatable playbook** for improving reach, engagement quality, a
 - **Tweets:** **1,166**  
 - **Engagement Rate (Weighted):** **10.12%**
 
-> Numbers reflect the “All Months” slicer state from the screenshot.
-
 ---
 
 ## 🔎 Insights
